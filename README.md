@@ -1,4 +1,4 @@
-=== FILE: README.md ===
+
 # Thesis Project – Signal Analysis and Cycle Segmentation
 
 This repository contains the code and sample data used in my Master's dissertation at **ISEP – Instituto Superior de Engenharia do Porto**, entitled:
@@ -38,4 +38,5 @@ source venv/bin/activate
 
 # Install project dependencies
 pip install -r requirements.txt
+
 
